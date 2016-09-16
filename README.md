@@ -3,7 +3,7 @@
 Hey Guys, I developed this application in one of my interview in Mumbai. Later on i feel that, this application can help to lot of developer (not only in core php but all PHP Frameworks i.g Symfony)...
 
 
-<h2>What cover PMCA (Profile Managment CRUD Sysmtem)</h2>
+<h2>What cover PMCA (Profile Managment CRUD System)</h2>
 
 <h3>1. Insert Profile Details with Profile Pic (Preview also) using Ajax with required validation</h3>
 <h3>2. Update Existing Record (required validation too)</h3>
