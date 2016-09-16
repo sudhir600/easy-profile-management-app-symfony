@@ -5,12 +5,12 @@ Hey Guys, I developed this application in one of my interview in Mumbai. Later o
 
 <h2>What cover PMCA (Profile Managment CRUD Sysmtem)</h2>
 
-<h3>Insert Profile Details with Profile Pic (Preview also) using Ajax with required validation</h3>
-<h3>Update Existing Record (required validation too)</h3>
-<h3>View All Records with pagination by id </h3>
-<h3>List all Profile in single page </h3>
-<h3>Delete Single Record</h3>
-<h3>Api End Point where, if you request ids (,2,5,10). you will get profile details in  Json format</h3>
+<h3>1. Insert Profile Details with Profile Pic (Preview also) using Ajax with required validation</h3>
+<h3>2. Update Existing Record (required validation too)</h3>
+<h3>3. View All Records with pagination by id </h3>
+<h3>4. List all Profile in single page </h3>
+<h3>5. Delete Single Record</h3>
+<h3>6. Api End Point where, if you request ids (,2,5,10). you will get profile details in  Json format</h3>
 
 Here is the spanshots 
 
